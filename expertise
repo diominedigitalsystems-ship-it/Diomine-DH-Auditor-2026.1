@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expertise & Innovation - Diomine Digital Systems</title>
+</head>
+<body>
+    <h1>Mining Expertise & Digital Innovation</h1>
+    
+    <section>
+        <h2>1. Why Digital is the Future of Mining in Africa</h2>
+        <p>The global mining industry is undergoing an unprecedented revolution. In Africa, adopting digital technologies is becoming a lever for sovereignty and performance. Transitioning from paper field notebooks to digital databases not only saves time but, more importantly, reduces errors in mineral resource estimation.</p>
+        <p>At Diomine Digital Systems, we believe that integrating software intelligence into geological exploration is key to attracting more investment and ensuring transparent management of mineral resources.</p>
+    </section>
+
+    <section>
+        <h2>2. Securing Geological Field Data</h2>
+        <p>Data is a mining company's most valuable asset. Losing data during a drilling campaign can cost millions of dollars. It is crucial to adopt rigorous backup protocols:</p>
+        <ul>
+            <li><strong>Centralization:</strong> Avoid scattering data across multiple unsynced computers.</li>
+            <li><strong>Standard Formatting:</strong> Use universal file formats to ensure interoperability between 3D modeling software.</li>
+            <li><strong>Data Integrity:</strong> Diomine tools are designed to facilitate this transition toward secure and integrated data management.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. Optimizing Workflow with Diomine Solutions</h2>
+        <p>Our software is developed to meet real challenges faced in the field. Whether in the exploration or production phase, Diomine tools allow you to structure your reports automatically. With an intuitive interface designed for engineers, our solutions reduce raw data processing time by 30%.</p>
+    </section>
+    
+    <br><a href="index.html">Back to Home</a>
+</body>
+</html>
